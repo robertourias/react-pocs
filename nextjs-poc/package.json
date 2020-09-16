@@ -1,7 +1,14 @@
 {
+  "name": "my-next-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
   "dependencies": {
     "next": "^9.5.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "dev": "next"
   }
 }
