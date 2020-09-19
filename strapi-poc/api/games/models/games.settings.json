@@ -32,8 +32,8 @@
       "allowedTypes": [
         "images"
       ],
-      "plugin": "upload",
-      "required": true
+      "plugin": "upload", 
+      "required": false
     }
   }
 }
