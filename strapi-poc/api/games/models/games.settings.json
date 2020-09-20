@@ -32,7 +32,7 @@
       "allowedTypes": [
         "images"
       ],
-      "plugin": "upload", 
+      "plugin": "upload",
       "required": false
     }
   }
