@@ -1,0 +1,8 @@
+.globalClass {
+    background: yellow;
+}
+
+$font-size: 42px;
+.example {
+  font-size: $font-size;
+}
