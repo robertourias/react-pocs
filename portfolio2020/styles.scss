@@ -1,11 +1,4 @@
 @import './shared/stylesheets/global';
 @import './shared/stylesheets/settings';
-
-.globalClass {
-    background: yellow;
-
-}
-$font-size: 42px;
-.example {
-  font-size: $font-size;
-}
+@import './shared/stylesheets/layout';
+@import './shared/stylesheets/utils';
