@@ -1,5 +1,3 @@
-import '../styles.scss';
-
 function Layout({ children }) {
     return <div className="container">{children}</div>
   }
