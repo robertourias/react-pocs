@@ -26,7 +26,7 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
             <img
-              src="../shared/images/profile.png"
+              src="/images/profile.png"
               className="headerHomeImage borderCircle"
               alt={name}
             />
@@ -37,7 +37,7 @@ export default function Layout({ children, home }) {
             <Link href="/">
               <a>
                 <img
-                  src="../shared/images/profile.png"
+                  src="/images/profile.png"
                   className="headerImage borderCircle"
                   alt={name}
                 />
