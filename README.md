@@ -10,3 +10,4 @@
 | `nextjs-poc`  | Nextjs: Projeto de estudo |
 | `nlw-proffy`  | Rocketseat: nlw-proffy |
 | `gatsby-poc`  | Gatsby: Projeto de estudo |
+| `strapi-poc`  | Strapi: Projeto de estudo |
